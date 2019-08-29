@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb681cd1-bb4b-42d5-9f1d-6b2eee9b5325" name="Default Changelist" comment="" />
@@ -13,6 +13,15 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/FristClass.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/startscript.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/startscript.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/startscript.cs" />
+      </list>
+    </option>
   </component>
   <component name="ProjectId" id="1Q1cFC434gbOECfVvalqRumAUVR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -61,6 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1566941438076</updated>
       <workItem from="1566941441389" duration="1156000" />
+      <workItem from="1567111905854" duration="2679000" />
     </task>
     <servers />
   </component>
@@ -74,7 +84,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
