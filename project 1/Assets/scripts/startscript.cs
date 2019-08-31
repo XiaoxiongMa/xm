@@ -12,7 +12,13 @@ public class startscript : MonoBehaviour
         print(message:"i love coding");
         print(message:"and i love my professor");
         print(message:" my professor is best");
-        print(message: "i believe i can be good on coding");
+        print(message:"i believe i can be good on coding");
+        print(message:" i like coding everyday");
+        print(message: "i wish i can maka my own game");
+        print(message: "felling googd today");
+        print(message: "weather is hot today!");
+
+
     }   
 
     // Update is called once per frame
