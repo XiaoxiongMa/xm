@@ -17,6 +17,10 @@ public class startscript : MonoBehaviour
         print(message: "i wish i can maka my own game");
         print(message: "felling googd today");
         print(message: "weather is hot today!");
+        print(message:"i have good day");
+        print(message: " i like summer");
+        print(message: "but i like more fall");
+        print(message:"i feel haapy today");
 
 
     }   
