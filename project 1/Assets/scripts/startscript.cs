@@ -21,6 +21,11 @@ public class startscript : MonoBehaviour
         print(message: " i like summer");
         print(message: "but i like more fall");
         print(message:"i feel haapy today");
+        print(message:"what's up");
+        print(message:"i am come back");
+        print(message:"weather is cold tonight");
+        print(message:"end");
+        
 
 
     }   
