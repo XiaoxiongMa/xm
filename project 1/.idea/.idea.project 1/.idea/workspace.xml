@@ -12,16 +12,16 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scenes/FristClass.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/scripts/vanaibles.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/startscript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/vanaibles.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/FristClass.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/startscript.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/startscript.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/vanaibles.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/startscript.cs" />
       </list>
     </option>
   </component>
@@ -80,6 +80,7 @@
       <workItem from="1567489159184" duration="180000" />
       <workItem from="1567543305384" duration="5000" />
       <workItem from="1567543380988" duration="3290000" />
+      <workItem from="1567657737271" duration="914000" />
     </task>
     <servers />
   </component>
