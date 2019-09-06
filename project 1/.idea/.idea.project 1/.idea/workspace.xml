@@ -20,8 +20,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/startscript.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/vanaibles.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/startscript.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/vanaibles.cs" />
       </list>
     </option>
   </component>
@@ -81,6 +81,7 @@
       <workItem from="1567543305384" duration="5000" />
       <workItem from="1567543380988" duration="3290000" />
       <workItem from="1567657737271" duration="914000" />
+      <workItem from="1567746081159" duration="838000" />
     </task>
     <servers />
   </component>
