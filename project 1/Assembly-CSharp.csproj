@@ -58,6 +58,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scenes\FristClass.cs" />
+    <Compile Include="Assets\scripts\new scripts.cs" />
     <Compile Include="Assets\scripts\startscript.cs" />
     <Compile Include="Assets\scripts\vanaibles.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">

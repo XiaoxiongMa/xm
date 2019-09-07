@@ -22,6 +22,7 @@
         <option value="$PROJECT_DIR$/Assets/startscript.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/startscript.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/vanaibles.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/new scripts.cs" />
       </list>
     </option>
   </component>
@@ -82,6 +83,8 @@
       <workItem from="1567543380988" duration="3290000" />
       <workItem from="1567657737271" duration="914000" />
       <workItem from="1567746081159" duration="838000" />
+      <workItem from="1567834122716" duration="34000" />
+      <workItem from="1567834185135" duration="114000" />
     </task>
     <servers />
   </component>
