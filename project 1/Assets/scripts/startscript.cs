@@ -26,7 +26,7 @@ public class startscript : MonoBehaviour
         print(message:"weather is cold tonight");
         print(message:"end");
         print(message: "i love you");
-        print(message:"learned new things")
+        print(message: "learned new things");
 
 
     }   
