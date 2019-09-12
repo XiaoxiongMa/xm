@@ -8,6 +8,8 @@ public class newscripts : MonoBehaviour
     void Start()
     {
         print(message:"hi");
+		print(message:"welcome to World");
+
         
     }
 
