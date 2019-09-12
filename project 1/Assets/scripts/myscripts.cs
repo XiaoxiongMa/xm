@@ -2,11 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class newscripts : MonoBehaviour
+public class NewScripts : MonoBehaviour
 
-{    public int HP = 100;
-            private string_name= "new";
-            private float att = 1000;
+{    
     // Start is called before the first frame update
     void Start()
     {
