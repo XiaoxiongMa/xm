@@ -32,7 +32,6 @@
         <option value="$PROJECT_DIR$/Assets/scripts/startscript.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/new scripts.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/dog class.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/myscripts.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Dog Class.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Cat Class.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Cat Script.cs" />
@@ -40,6 +39,7 @@
         <option value="$PROJECT_DIR$/Assets/scripts/TrggeEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/TriggeEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/orangecat.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/myscripts.cs" />
       </list>
     </option>
   </component>
@@ -116,6 +116,7 @@
       <workItem from="1568321141773" duration="3754000" />
       <workItem from="1568520591079" duration="1253000" />
       <workItem from="1568522467870" duration="321000" />
+      <workItem from="1568612377710" duration="721000" />
     </task>
     <servers />
   </component>

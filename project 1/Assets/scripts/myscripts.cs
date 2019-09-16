@@ -10,8 +10,10 @@ public class NewScripts : MonoBehaviour
     {
         print(message:"hi");
 		print(message:"welcome to World");
-       
-              
+        int a = 5;
+        int b = ++a;
+        console.WriteLine("b={0}",b)
+        
     }
 
     // Update is called once per frame
