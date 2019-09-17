@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class NewScripts : MonoBehaviour
+public class MyScripts : MonoBehaviour
 
 {    
     // Start is called before the first frame update
@@ -12,8 +12,8 @@ public class NewScripts : MonoBehaviour
 		print(message:"welcome to World");
         int a = 5;
         int b = ++a;
-        console.WriteLine("b={0}",b)
-        
+        print(message:("b={0}", b));
+
     }
 
     // Update is called once per frame
