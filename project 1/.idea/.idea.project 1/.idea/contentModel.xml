@@ -14,6 +14,7 @@
           <e p="DogClass.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
           <e p="Movement.cs" t="Include" />
+          <e p="Movement1.cs" t="Include" />
           <e p="myscripts.cs" t="Include" />
           <e p="orangecat.cs" t="Include" />
           <e p="ParticleControl.cs" t="Include" />
