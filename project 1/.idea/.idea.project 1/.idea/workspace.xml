@@ -19,7 +19,8 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/FristClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/orangecat.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/scripts/myscripts.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/Movement1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/myscripts.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -125,6 +126,7 @@
       <workItem from="1568925368063" duration="4602000" />
       <workItem from="1568954380102" duration="124000" />
       <workItem from="1569037389709" duration="1956000" />
+      <workItem from="1569040797252" duration="217000" />
     </task>
     <servers />
   </component>
