@@ -38,10 +38,10 @@
         <option value="$PROJECT_DIR$/Assets/scripts/TrggeEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/TriggeEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/orangecat.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/myscripts.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Orangecat.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Movement.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Movement1.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/myscripts.cs" />
       </list>
     </option>
   </component>
@@ -58,7 +58,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.smartKeys_rider" />
+    <property name="settings.editor.selected.configurable" value="SolutionBuilderGeneralOptionsPageId" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -124,11 +124,22 @@
       <workItem from="1568757288659" duration="211000" />
       <workItem from="1568925368063" duration="4602000" />
       <workItem from="1568954380102" duration="124000" />
+      <workItem from="1569037389709" duration="1956000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="UnitTestsCoverage.Settings">
+    <option name="coveragePercentColumnWidth" value="150" />
+    <option name="sortOrder" value="DESCENDING" />
+    <option name="sortedColumn" value="1" />
+    <option name="symbolColumnWidth" value="145" />
+    <coverage-tree-state>
+      <expand />
+      <select />
+    </coverage-tree-state>
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
