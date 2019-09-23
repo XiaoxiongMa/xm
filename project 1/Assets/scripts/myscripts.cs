@@ -21,6 +21,10 @@ public class MyScripts : MonoBehaviour
         int a = 10;
         int b = ++a;
         print(message: ("b={0}", b));
+
+        int a = 10;
+        int b = a--;
+        print(message: ("b={0},a={1}", b, a));
     }
 
     // Update is called once per frame
