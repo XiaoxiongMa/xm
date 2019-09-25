@@ -41,15 +41,38 @@ public class MyScripts : MonoBehaviour
         print(message: (bequal));
         print(message: (!bequal));
         
+        person prl = new person(30."zhangsan");
+        person pr2 = new person(40."lisi");
         
+        print(message:(prl.age));
+        print(message:(prl._name));
+        print(message:(pr2.age));
+        print(message:(pr2._name));
         
         
         
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+    
+   
 }
+    
+    
+        public class person
+            {
+                public int age = 20;
+                private string _name;
+                
+                public Person()
+                {
+                    this.age = 20;
+                    this._name = "human";
+                }
+            
+            
+            }
+            
+         
+         
+         
+        
