@@ -66,6 +66,7 @@
     <Compile Include="Assets\scripts\myscripts.cs" />
     <Compile Include="Assets\scripts\orangecat.cs" />
     <Compile Include="Assets\scripts\ParticleControl.cs" />
+    <Compile Include="Assets\scripts\Person.cs" />
     <Compile Include="Assets\scripts\startscript.cs" />
     <Compile Include="Assets\scripts\TriggeEvents.cs" />
     <Compile Include="Assets\scripts\vanaibles.cs" />

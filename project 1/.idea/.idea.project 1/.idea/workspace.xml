@@ -43,6 +43,7 @@
         <option value="$PROJECT_DIR$/Assets/scripts/Movement.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Movement1.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/myscripts.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Person.cs" />
       </list>
     </option>
   </component>
@@ -130,6 +131,8 @@
       <workItem from="1569214707878" duration="1088000" />
       <workItem from="1569383270418" duration="1716000" />
       <workItem from="1569385095029" duration="2102000" />
+      <workItem from="1569475834490" duration="888000" />
+      <workItem from="1569477056254" duration="411000" />
     </task>
     <servers />
   </component>
