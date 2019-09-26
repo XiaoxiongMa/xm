@@ -14,41 +14,39 @@ public class MyScripts : MonoBehaviour
         //int b = ++a;
         //print(message:("b={0}", b));
 
-        int a = 10;
-        int b = a--;
-        print(message: ("b={0},a={1}", b,a));
+//        int a = 10;
+//        int b = a--;
+//        print(message: ("b={0},a={1}", b,a));
+//
+//        a = 10;
+//        int b = ++a;
+//        print(message: ("b={0}", b));
+//
+//        int a = 10;
+//        int b = a--;
+//        print(message: ("b={0},a={1}", b, a));
 
-        int a = 10;
-        int b = ++a;
-        print(message: ("b={0}", b));
-
-        int a = 10;
-        int b = a--;
-        print(message: ("b={0},a={1}", b, a));
-
-        int c = 10;
-        int d = c % 3;
-        print(message: ("d={0}", d));
+//        int c = 10;
+//        int d = c % 3;
+//        print(message: ("d={0}", d));
+//
+//        int max = (a > c ? a : c);
+//        print(message: ("a={0},c={1} max={2}", a, c, max));
+//
+//        int e = 20;
+//        e -= 5;//e = e-5;
+//        print(message: ("e={0}", e));
+//
+      
         
-        int max=(a > c ? a : c)
-        print(message: ("a={0},c={1} max={2}", a, c, max));
-
-        int e = 20;
-        e -= 5;//e = e-5;
-        print(message: ("e={0}", e));
-
-        bool bequal = ((a != c)||(c! =d));
-        print(message: (bequal));
-        print(message: (!bequal));
+        //person prl = new person("zhangsan");
+        //person pr2 = new person("lisi");
         
-        person prl = new person(30."zhangsan");
-        person pr2 = new person(40."lisi");
-        
-        print(message:(prl.age));
-        print(message:(prl._name));
-        print(message:(pr2.age));
-        print(message:(pr2._name));
-        
+//        print(message:(prl.age));
+//        print(message:(prl._name));
+//        print(message:(pr2.age));
+//        print(message:(pr2._name));
+//        
         
         
     }
@@ -63,7 +61,7 @@ public class MyScripts : MonoBehaviour
                 public int age = 20;
                 private string _name;
                 
-                public Person()
+                public person(string zhangsan)
                 {
                     this.age = 20;
                     this._name = "human";

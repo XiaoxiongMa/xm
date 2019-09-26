@@ -5,7 +5,8 @@ using UnityEngine;
 public class Person : MonoBehaviour 
 {
     public int age;
-    public string _name;
+    public string  name;
+    private string _name;
 
     public Person()
     {
