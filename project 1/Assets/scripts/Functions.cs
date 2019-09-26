@@ -7,7 +7,6 @@ public class Functions : MonoBehaviour
 {
     public string playerName;
     private int myNumber;
-
     public float speed = 5;
     public GameObject player;
     public Color playercolor = Color.red;
