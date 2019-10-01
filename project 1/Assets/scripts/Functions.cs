@@ -6,15 +6,15 @@ using UnityEngine;
 public class Functions : MonoBehaviour
 {
     public string playerName;
-    private int myNumber;
+    private int _myNumber;
     public float speed = 5;
     public GameObject player;
-    public Color playercolor = Color.red;
+    public Color playercolor = Color.green;
     
     // Start is called before the first frame update
     void Start()
     {
-        myNumber = AddNumbers(a: 10, b: 5);
+        _myNumber = AddNumbers(a: 10, b: 5);
         Instantiate(original: ConfigGameObject());
     }
 
