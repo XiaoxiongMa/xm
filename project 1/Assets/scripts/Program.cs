@@ -7,12 +7,17 @@ public class Program : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        Myclass mc= new Myclass ();
+		mc,Mysum(20);
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+    class Myclass
+	{
+		public int Mysum(int x, int y);
+		{
+			int sum;
+			sum = x + y; 
+			return sum;
+		}
+	}
 }
