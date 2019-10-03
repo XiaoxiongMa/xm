@@ -56,21 +56,4 @@ public class MyScripts : MonoBehaviour
 }
     
     
-        public class person
-            {
-                public int age = 20;
-                private string _name;
-                
-                public person(string zhangsan)
-                {
-                    this.age = 20;
-                    this._name = "human";
-                }
-            
-            
-            }
-            
-         
-         
-         
         

@@ -12,17 +12,21 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/scripts/startscript.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/scripts/ParticleControl.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/scripts/vanaibles.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/scripts/CatScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/Movement1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DC10DD4A-D9F3-4AA9-8E69-1E49A48C7111/f1/5e1717ed/Object.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Functions.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/FristClass.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/scripts/orangecat.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/scripts/Movement1.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/scripts/Person.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/PlayerControll.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/vanaibles.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/UITextController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/CatScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/Orangecat.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/myscripts.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/ParticleControl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/Movement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/startscript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/IntData.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -42,13 +46,15 @@
         <option value="$PROJECT_DIR$/Assets/scripts/TriggeEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/orangecat.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Orangecat.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/Movement.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Movement1.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/IntData.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Program.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/myscripts.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Person.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/Functions.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/PlayerControll.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/Program.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Movement.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/UITextController.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Functions.cs" />
       </list>
     </option>
   </component>
@@ -145,8 +151,13 @@
       <workItem from="1569648387314" duration="1572000" />
       <workItem from="1569732171651" duration="13000" />
       <workItem from="1569905864807" duration="897000" />
+<<<<<<< HEAD
       <workItem from="1569908678335" duration="787000" />
       <workItem from="1569909629742" duration="99000" />
+=======
+      <workItem from="1569962153800" duration="4281000" />
+      <workItem from="1569966532608" duration="41000" />
+>>>>>>> master
     </task>
     <servers />
   </component>
@@ -180,6 +191,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="931" y="340" key="RiderGenerateDialog" />
+    <state x="931" y="340" key="RiderGenerateDialog/1920.1080" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
