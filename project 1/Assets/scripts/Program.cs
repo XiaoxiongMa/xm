@@ -18,6 +18,7 @@ public class Program : MonoBehaviour
 			int sum;
 			sum = x + y; 
 			return sum;
+			print:(message);
 		}
 	}
 }
