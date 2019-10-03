@@ -5,7 +5,6 @@ using UnityEngine.UI;
 [RequireComponent(typeof(Text))]
 public class UITextController : MonoBehaviour
 {
-    public UnityEvent startEvent; 
     private Text TextLabel;
 
     public void UpdateText(IntData date)
@@ -13,10 +12,9 @@ public class UITextController : MonoBehaviour
         TextLabel.text = date.value.ToString();
     }
 
-    void Start()
+    void Awake()
     {
         TextLabel = GetComponent<Text>();
-        startEvent.Invoke();
     }
 }
 

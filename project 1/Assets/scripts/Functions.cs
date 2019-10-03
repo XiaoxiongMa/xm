@@ -30,7 +30,7 @@ public class Functions : MonoBehaviour
 
         return gameObject;
     }
-    private string WelcomPlayer()
+    private string WelcomePlayer()
     {    
         //Add player to database;
         //give player weapons;
