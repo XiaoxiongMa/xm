@@ -48,6 +48,7 @@ public class MyScripts : MonoBehaviour
 //        print(message:(pr2._name));
 //        
         
+        print(message:"test");
         
     }
 
