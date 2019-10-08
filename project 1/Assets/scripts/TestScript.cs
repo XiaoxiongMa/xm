@@ -4,11 +4,15 @@ using UnityEngine;
 
 public class TestScript : MonoBehaviour
 {
-   public flaot MySum(float x, int y)
+   public float MySum(float x, int y)
    {
        float sum;
        sum = x + y;
        return sum;
    }
 
+}
+
+public class flaot
+{
 }
