@@ -4,15 +4,11 @@ using UnityEngine;
 
 public class TestScript : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+   public flaot MySum(float x, int y)
+   {
+       float sum;
+       sum = x + y;
+       return sum;
+   }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }
