@@ -1,5 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
+﻿using System;
 using UnityEngine;
 
 public class TestScript : MonoBehaviour
@@ -11,8 +10,13 @@ public class TestScript : MonoBehaviour
        return sum;
    }
 
+   private void OnTransformChildrenChanged()
+   {
+       throw new NotImplementedException();
+   }
 }
 
-public class flaot
-{
-}
+    
+
+
+

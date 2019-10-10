@@ -26,17 +26,17 @@ public class MyScripts : MonoBehaviour
 //        int b = a--;
 //        print(message: ("b={0},a={1}", b, a));
 
-//        int c = 10;
+//       int c = 10;
 //        int d = c % 3;
-//        print(message: ("d={0}", d));
+//       print(message: ("d={0}", d));
 //
 //        int max = (a > c ? a : c);
-//        print(message: ("a={0},c={1} max={2}", a, c, max));
-//
-//        int e = 20;
-//        e -= 5;//e = e-5;
-//        print(message: ("e={0}", e));
-//
+//       print(message: ("a={0},c={1} max={2}", a, c, max));
+
+          int e = 20;
+          e -= 5;//e = e-5;
+          print(message: ("e={0}", e));
+
       
         
         //person prl = new person("zhangsan");
