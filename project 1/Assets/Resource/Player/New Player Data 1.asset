@@ -12,6 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 56a1ce0449839ff47abeadbfd7fabd70, type: 3}
   m_Name: New Player Data 1
   m_EditorClassIdentifier: 
+  sprite: {fileID: 0}
+  spritecolor: {r: 1, g: 0, b: 0, a: 1}
+  prefab: {fileID: 0}
   sprites: {fileID: 0}
   color: {r: 0, g: 0, b: 0, a: 0}
   prefab: {fileID: 0}
+  weapon: {fileID: 0}
+  health: {fileID: 11400000, guid: e060f4d24caa88842848100501ee27bb, type: 2}
+  shirt: {fileID: 0}
+  pants: {fileID: 0}
+  weapons: []

@@ -10,16 +10,18 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 56a1ce0449839ff47abeadbfd7fabd70, type: 3}
-  m_Name: New Player Data
+  m_Name: YellowDiamond
   m_EditorClassIdentifier: 
   sprite: {fileID: 0}
   spritecolor: {r: 1, g: 0, b: 0, a: 1}
-  prefab: {fileID: 8142576127977185826, guid: 1b4f5a390d9505447a698dc253f22f3e, type: 3}
-  sprites: {fileID: 21300000, guid: f1bf637ee6393f3488ec4975cf6a0677, type: 3}
-  color: {r: 0.07971394, g: 1, b: 0, a: 0}
-  prefab: {fileID: 8142576127977185826, guid: 1b4f5a390d9505447a698dc253f22f3e, type: 3}
+  prefab: {fileID: 0}
+  sprites: {fileID: 0}
+  color: {r: 0, g: 0, b: 0, a: 0}
+  prefab: {fileID: 0}
   weapon: {fileID: 0}
-  health: {fileID: 11400000, guid: b7822470311b83c4d9702df3d65b293d, type: 2}
+  health: {fileID: 0}
   shirt: {fileID: 0}
   pants: {fileID: 0}
-  weapons: []
+  weapons:
+  - {fileID: 11400000, guid: 8bf0372965f5e7f4299ea6e099319bc0, type: 2}
+  - {fileID: 11400000, guid: 9b785e6a04f2b89478fe89fea923a571, type: 2}

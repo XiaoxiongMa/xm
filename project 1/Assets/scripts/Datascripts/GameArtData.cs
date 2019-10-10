@@ -3,6 +3,6 @@
 public class GameArtData : ScriptableObject
 {
     public Sprite sprite;
-    public Color color;
+    public Color spritecolor = Color.red;
     public GameObject prefab;
 }

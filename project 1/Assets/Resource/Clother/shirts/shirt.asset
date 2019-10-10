@@ -9,13 +9,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: cadabc69c38a5784f9b892d0df56c57a, type: 3}
-  m_Name: New Weapon Data
+  m_Script: {fileID: 11500000, guid: 468b8116ea1738049b2770cd9e907dc2, type: 3}
+  m_Name: shirt
   m_EditorClassIdentifier: 
-  sprite: {fileID: 0}
+  sprite: {fileID: 21300000, guid: 1bfc74cdd35e6ba41a26f1686fba3730, type: 3}
   spritecolor: {r: 1, g: 0, b: 0, a: 1}
-  prefab: {fileID: 0}
-  sprite: {fileID: 0}
-  color: {r: 0, g: 0, b: 0, a: 0}
-  prefab: {fileID: 0}
-  powerLevel: 5
+  prefab: {fileID: 7966566166060673930, guid: 1e16ed90ec1c7ea4987430d76e29cdbc, type: 3}
