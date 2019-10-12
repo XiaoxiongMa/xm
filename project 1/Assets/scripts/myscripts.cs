@@ -49,10 +49,11 @@ public class MyScripts : MonoBehaviour
 //        
         
         print(message:"test");
+        print(message:"weapons");
         
     }
 
-    
+    public color color = color.red;
    
 }
     
