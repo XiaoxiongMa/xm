@@ -2,6 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+public color color = color.red;
+public Health health;
+public weapon weapon;
+private person Bob;
+
 public class MyScripts : MonoBehaviour
 
 {    
@@ -53,7 +58,7 @@ public class MyScripts : MonoBehaviour
         
     }
 
-    public color color = color.red;
+    
    
 }
     
