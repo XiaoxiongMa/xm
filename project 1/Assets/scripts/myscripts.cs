@@ -16,8 +16,9 @@ public class MyScripts : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        public weaponint powerlevel = 10;
+        public Weaponint powerlevel = 10;
         public Gameobject Bob;
+        public Team team;
         // print(message:"hi");
 	    // print(message:"welcome to World");
         // int a = 5;
