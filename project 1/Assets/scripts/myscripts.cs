@@ -2,26 +2,23 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public color color = color.red;
-public Health health;
-public weapon weapon;
-private person Bob;
-public name Bob;
-public skill ultmate;
-
-
 public class MyScripts : MonoBehaviour
 
 {    
-    // Start is called before the first frame update
+    //public color color = color.red;
+    //public Health health;
+    //public weapon weapon;
+    //private person Bob;
+    //public name Bob;
+    //public skill ultmate;
     void Start()
     {
-        public Weaponint powerlevel = 10;
-        public Gameobject Bob;
-        public Team team;
-        public int a = 10;
-        private int b = ++a;
-        print(message:"b={0}",b);
+//        public Weaponint powerlevel = 10;
+//        public Gameobject Bob;
+//        public Team team;
+//        public static int a = 10;
+//        private int b = ++a;
+//       
         // print(message:"hi");
 	    // print(message:"welcome to World");
         // int a = 5;

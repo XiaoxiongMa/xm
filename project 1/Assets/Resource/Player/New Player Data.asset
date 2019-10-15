@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 56a1ce0449839ff47abeadbfd7fabd70, type: 3}
   m_Name: New Player Data
   m_EditorClassIdentifier: 
-  sprite: {fileID: 0}
+  sprite: {fileID: 21300000, guid: 38fad1b6f220b8a49a2bd18ac3c4e03c, type: 3}
   spritecolor: {r: 1, g: 0, b: 0, a: 1}
   prefab: {fileID: 8142576127977185826, guid: 1b4f5a390d9505447a698dc253f22f3e, type: 3}
   sprites: {fileID: 21300000, guid: f1bf637ee6393f3488ec4975cf6a0677, type: 3}
@@ -20,6 +20,8 @@ MonoBehaviour:
   prefab: {fileID: 8142576127977185826, guid: 1b4f5a390d9505447a698dc253f22f3e, type: 3}
   weapon: {fileID: 0}
   health: {fileID: 11400000, guid: b7822470311b83c4d9702df3d65b293d, type: 2}
-  shirt: {fileID: 0}
-  pants: {fileID: 0}
-  weapons: []
+  shirt: {fileID: 11400000, guid: 183d72b2e11c6d0449298e6502f7c9fa, type: 2}
+  pants: {fileID: 11400000, guid: ddc5a3c6d3eb71d48854ee2f7ba35b67, type: 2}
+  weapons:
+  - {fileID: 0}
+  - {fileID: 0}

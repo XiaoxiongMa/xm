@@ -11,6 +11,7 @@
         </e>
         <e p="scripts" t="Include">
           <e p="CatScript.cs" t="Include" />
+          <e p="CinemachineController.cs" t="Include" />
           <e p="Datascripts" t="Include">
             <e p="ClotherData.cs" t="Include" />
             <e p="FloatData.cs" t="Include" />

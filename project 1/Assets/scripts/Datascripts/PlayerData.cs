@@ -1,8 +1,12 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
+
 [CreateAssetMenu]
 public class PlayerData : GameArtData
 {
+    public UnityAction<GameObject> instanceAction;
+    
     public Sprite sprites;
     public Color color;
     public GameObject prefab;
@@ -15,8 +19,9 @@ public class PlayerData : GameArtData
     public void InstancePlayer()
     {
         var newPlayer = Instantiate(prefab);
-        var newSprite = newPlayer.GetComponentInChildren<SpriteRenderer>();
-        newSprite.sprite = sprites;
-        newSprite.color = color;
+        var playerSprite = newPlayer.GetComponentInChildren<SpriteRenderer>();
+        playerSprite.sprite = sprites;
+        playerSprite.color = spritecolor;
+        instanceAction(newPlayer);
     }
 }
