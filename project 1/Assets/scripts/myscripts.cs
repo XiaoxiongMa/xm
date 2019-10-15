@@ -6,6 +6,9 @@ public color color = color.red;
 public Health health;
 public weapon weapon;
 private person Bob;
+public name Bob;
+public skill ultmate;
+
 
 public class MyScripts : MonoBehaviour
 
@@ -13,6 +16,8 @@ public class MyScripts : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        public weaponint powerlevel = 10;
+        public Gameobject Bob;
         // print(message:"hi");
 	    // print(message:"welcome to World");
         // int a = 5;
