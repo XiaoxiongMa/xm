@@ -19,6 +19,9 @@ public class MyScripts : MonoBehaviour
         public Weaponint powerlevel = 10;
         public Gameobject Bob;
         public Team team;
+        public int a = 10;
+        private int b = ++a;
+        print(message:"b={0}",b);
         // print(message:"hi");
 	    // print(message:"welcome to World");
         // int a = 5;
