@@ -58,6 +58,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scenes\FristClass.cs" />
+    <Compile Include="Assets\scripts\Bar.cs" />
     <Compile Include="Assets\scripts\CatScript.cs" />
     <Compile Include="Assets\scripts\CinemachineController.cs" />
     <Compile Include="Assets\scripts\Datascripts\ClotherData.cs" />
