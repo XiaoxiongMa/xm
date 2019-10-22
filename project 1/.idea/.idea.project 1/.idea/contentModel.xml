@@ -10,8 +10,12 @@
           <e p="FristClass.cs" t="Include" />
         </e>
         <e p="scripts" t="Include">
+          <e p="Bar.cs" t="Include" />
           <e p="CatScript.cs" t="Include" />
           <e p="CinemachineController.cs" t="Include" />
+          <e p="CollectionData" t="Include">
+            <e p="GameArtCollection.cs" t="Include" />
+          </e>
           <e p="Datascripts" t="Include">
             <e p="ClotherData.cs" t="Include" />
             <e p="FloatData.cs" t="Include" />
@@ -26,6 +30,7 @@
           <e p="Movement.cs" t="Include" />
           <e p="Movement1.cs" t="Include" />
           <e p="MyScripts.cs" t="Include" />
+          <e p="MySecondScript.cs" t="Include" />
           <e p="Orangecat.cs" t="Include" />
           <e p="ParticleControl.cs" t="Include" />
           <e p="PlayerControll.cs" t="Include" />

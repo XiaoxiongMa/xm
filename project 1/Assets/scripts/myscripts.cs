@@ -5,15 +5,15 @@ using UnityEngine;
 public class MyScripts : MonoBehaviour
 
 {    
-    public color color = color.red;
-    public Health health;
-    public weapon weapon;
-    private person Bob;
-    public name Bob;
-    public skill ultmate;
-    public Weaponint powerlevel = 10;
-    public Gameobject Bob;
-    public Team tea  
+//    public color color = color.red;
+//    public Health health;
+//    public weapon weapon;
+//    private person Bob;
+//    public name Bob;
+//    public skill ultmate;
+//    public Weaponint powerlevel = 10;
+//    public Gameobject Bob;
+//    public Team tea  
     void Start()
     {
       

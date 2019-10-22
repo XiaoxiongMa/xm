@@ -557,6 +557,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &859619110 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3186511659072210735, guid: d65bd5fe4fcf2f74e831a68ec8eb2963,
+    type: 3}
+  m_PrefabInstance: {fileID: 8704788249693427774}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &859619116
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 859619110}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6cd06120af94c424a929fc2069ca42c6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  triggerEvent:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
 --- !u!1 &894064375
 GameObject:
   m_ObjectHideFlags: 0
@@ -753,7 +776,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1258542612}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -3.99, y: 1.68, z: -0.4}
+  m_LocalPosition: {x: -5.55, y: 1.08, z: -0.04}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -1339,7 +1362,7 @@ PrefabInstance:
     - target: {fileID: 7014062776268821395, guid: 1b4f5a390d9505447a698dc253f22f3e,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.47
+      value: 0.79
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1b4f5a390d9505447a698dc253f22f3e, type: 3}
@@ -1358,17 +1381,17 @@ PrefabInstance:
     - target: {fileID: 8284898697711760439, guid: d65bd5fe4fcf2f74e831a68ec8eb2963,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.84106445
+      value: -3.15
       objectReference: {fileID: 0}
     - target: {fileID: 8284898697711760439, guid: d65bd5fe4fcf2f74e831a68ec8eb2963,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.048584
+      value: 1.12
       objectReference: {fileID: 0}
     - target: {fileID: 8284898697711760439, guid: d65bd5fe4fcf2f74e831a68ec8eb2963,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.13964844
+      value: 0.08
       objectReference: {fileID: 0}
     - target: {fileID: 8284898697711760439, guid: d65bd5fe4fcf2f74e831a68ec8eb2963,
         type: 3}
@@ -1410,5 +1433,21 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 6948192958899237853, guid: d65bd5fe4fcf2f74e831a68ec8eb2963,
+        type: 3}
+      propertyPath: triggerEvent.m_PersistentCalls.m_Calls.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6948192958899237853, guid: d65bd5fe4fcf2f74e831a68ec8eb2963,
+        type: 3}
+      propertyPath: triggerEvent.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6948192958899237853, guid: d65bd5fe4fcf2f74e831a68ec8eb2963,
+        type: 3}
+      propertyPath: triggerEvent.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 6948192958899237853, guid: d65bd5fe4fcf2f74e831a68ec8eb2963, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: d65bd5fe4fcf2f74e831a68ec8eb2963, type: 3}
