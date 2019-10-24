@@ -8,10 +8,21 @@ public class GameArtCollection : ScriptableObject
 
    public void AddData(GameArtData obj)
    {
-      if (!obj.collected)
+      for(int i = 0; i < collectionList.Count; i++)
       {
-         collectionList.Add(obj);
-         obj.collected = true;
+            if (!collectionList.Contains(obj))
+            {
+               collectionList.Add(obj);
+            }
+      }
+   }
+
+   public void RemoveLastItem()
+   {
+      if (collectionList.Contains(item:null))
+      {
+         collectionList.RemoveAt(index:collectionList.Count-1);
       }
    }
 }
+   

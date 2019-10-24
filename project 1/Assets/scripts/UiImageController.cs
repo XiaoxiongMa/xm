@@ -13,6 +13,7 @@ public class UiImageController : MonoBehaviour
 
     public void UpdateImage(FloatData data)
     {
+        Debug.Log("test");
         img.fillAmount = data.value;
     }
     
