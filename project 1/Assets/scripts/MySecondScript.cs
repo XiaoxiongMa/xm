@@ -6,5 +6,15 @@ using UnityEngine;
 
 public class MySecondScript : MonoBehaviour
 {
- 
+    class program
+    {
+        static void Main(string[] args)
+        {
+            print(message:"Hello World!")
+        }
+    }
+
+
+
+
 }
