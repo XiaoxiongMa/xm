@@ -10,7 +10,8 @@ public class MySecondScript : MonoBehaviour
     {
         static void Main(string[] args)
         {
-            print(message:"Hello World!")
+            print(message:"Hello World!");
+            print(message:"good!");
         }
     }
 
