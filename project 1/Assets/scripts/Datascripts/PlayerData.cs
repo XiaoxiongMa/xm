@@ -6,6 +6,7 @@ using UnityEngine.Events;
 public class PlayerData : GameArtData
 {
     public UnityAction<GameObject> instanceAction;
+    public UnityEvent onRunEvent;
     
     public Sprite sprites;
     public Color color;
@@ -24,4 +25,10 @@ public class PlayerData : GameArtData
         playerSprite.color = spritecolor;
         instanceAction(newPlayer);
     }
+
+    public void Run()
+    {
+        onRunEvent.Invoke();
+    }
 }
+
