@@ -12,6 +12,7 @@ public class MySecondScript : MonoBehaviour
         {
             print(message:"Hello World!");
             print(message:"good!");
+            public health health;
         }
     }
 
