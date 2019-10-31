@@ -14,6 +14,7 @@ public class weaponswitch : MonoBehaviour
 
     public states currentStates;
     public UnityEvent OnStartEvent, OnPlatingEvent, OnEndEvent;
+    public WeaponData WeaponData;
     // Update is called once per frame
     void Update()
     {
