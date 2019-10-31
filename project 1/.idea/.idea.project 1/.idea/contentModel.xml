@@ -10,6 +10,9 @@
           <e p="FristClass.cs" t="Include" />
         </e>
         <e p="scripts" t="Include">
+          <e p="AI" t="Include">
+            <e p="AgentHandler.cs" t="Include" />
+          </e>
           <e p="Bar.cs" t="Include" />
           <e p="CatScript.cs" t="Include" />
           <e p="CinemachineController.cs" t="Include" />
@@ -45,6 +48,7 @@
           <e p="Uiimagecontroller.cs" t="Include" />
           <e p="UITextController.cs" t="Include" />
           <e p="vanaibles.cs" t="Include" />
+          <e p="weaponswitch.cs" t="Include" />
         </e>
       </e>
       <e p="obj" t="ExcludeRecursive" />
