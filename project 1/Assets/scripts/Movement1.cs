@@ -21,6 +21,9 @@ public class Movement1 : MonoBehaviour
     void Update()
     {
         position.x = movespeed*Input.GetAxis("Horizontal");
+        position.x = movespeed*Input.GetAxis("Vertical");
+        position.y -= gravity;
+        
         position.y -= gravity;
 
         if (Controller.isGrounded)

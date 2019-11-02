@@ -43,18 +43,20 @@ using UnityEngine;
 //    }
 //}
 
-public class fillAmount
-{
-}
-
-internal class particlesTransform
-{
-}
-
-public class transform
-{
-    public T[] GetComponentsInChildren<T>()
-    {
-        throw new System.NotImplementedException();
-    }
-}
+//public class fillAmount
+//{
+//}
+//
+//internal class particlesTransform
+//{
+//}
+//
+//public class transform
+//{
+//    public T[] GetComponentsInChildren<T>()
+//    {
+//        throw new System.NotImplementedException();
+//    }
+//
+//    public Vector3 position { get; set; }
+//}
