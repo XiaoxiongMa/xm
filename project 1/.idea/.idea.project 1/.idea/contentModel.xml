@@ -12,6 +12,7 @@
         <e p="scripts" t="Include">
           <e p="AI" t="Include">
             <e p="AgentHandler.cs" t="Include" />
+            <e p="AINav.cs" t="Include" />
           </e>
           <e p="Bar.cs" t="Include" />
           <e p="CatScript.cs" t="Include" />
@@ -25,7 +26,9 @@
             <e p="FloatData.cs" t="Include" />
             <e p="GameArtData.cs" t="Include" />
             <e p="IntData.cs" t="Include" />
+            <e p="MouseEvents.cs" t="Include" />
             <e p="PlayerData.cs" t="Include" />
+            <e p="Vector 3 Data.cs" t="Include" />
             <e p="WeaponData.cs" t="Include" />
           </e>
           <e p="Debugger.cs" t="Include" />

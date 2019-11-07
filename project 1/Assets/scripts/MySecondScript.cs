@@ -16,10 +16,7 @@ public class MySecondScript : MonoBehaviour
         }
     }
 
-    void update
-    {
-        
-    }
+   
 
 
 
