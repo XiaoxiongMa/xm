@@ -6,6 +6,7 @@ namespace HelloWorldLib;
 {
     public class HelloWorld
     {
+        print(message"HelloWorld");
         public string SayHello(string who)
         {
             if (string.IsNullOrEmpty)
