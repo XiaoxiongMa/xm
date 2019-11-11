@@ -27,6 +27,7 @@ public class startscript : MonoBehaviour
         print(message:"end");
         print(message: "i love you");
         print(message: "learned new things");
+        print(message:"11111");
 
 
     }   
