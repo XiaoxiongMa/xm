@@ -23,3 +23,8 @@ public class AINav : MonoBehaviour
         agent.destination = location.value;
     }
 }
+
+public class Vector3Data
+{
+    public Vector3 value;
+}

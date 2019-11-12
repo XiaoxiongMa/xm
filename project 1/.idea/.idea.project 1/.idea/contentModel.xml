@@ -17,10 +17,14 @@
           <e p="Bar.cs" t="Include" />
           <e p="CatScript.cs" t="Include" />
           <e p="CinemachineController.cs" t="Include" />
+          <e p="coedteams" t="Include">
+            <e p="Coroutines.cs" t="Include" />
+          </e>
           <e p="CollectionData" t="Include">
             <e p="GameArtCollection.cs" t="Include" />
             <e p="Lists.cs" t="Include" />
           </e>
+          <e p="Configuring AI with Scriptable Objects.cs" t="Include" />
           <e p="Datascripts" t="Include">
             <e p="ClotherData.cs" t="Include" />
             <e p="FloatData.cs" t="Include" />
@@ -36,6 +40,7 @@
           <e p="DogClass.cs" t="Include" />
           <e p="EnumSwitch.cs" t="Include" />
           <e p="Functions.cs" t="Include" />
+          <e p="HelloWrold.cs" t="Include" />
           <e p="MonoEvents.cs" t="Include" />
           <e p="Movement.cs" t="Include" />
           <e p="Movement1.cs" t="Include" />
