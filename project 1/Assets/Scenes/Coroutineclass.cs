@@ -21,5 +21,37 @@ public class Coroutineclass : MonoBehaviour
             Debug.Log(index.value);
             yield return wfsObj;
         }
+         while (canRun)
+        {
+            wfsObj = new WaitForSeconds = 1f;
+            Debug.log(message:"3")
+            yield return wfsObj;
+            index.value--;
+        }
+        else
+        {
+            wfsObj = new WaitForSeconds = 1f;
+            Debug.log(message:"2")
+            yield return wfsObj;
+            index.value--;
+        }
+        else
+        {
+            wfsObj = new WaitForSeconds = 1f;
+            Debug.log(message:"1")
+            yield return wfsObj;
+            index.value--;
+        }
+        else
+        {
+            wfsObj = new WaitForSeconds = 1f;
+            Debug.log(message:"Run!")
+            yield return wfsObj;
+            index.value--;
+
+        }
+
+       
     }
+    
 }
