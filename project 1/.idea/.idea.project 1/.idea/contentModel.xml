@@ -9,6 +9,8 @@
         <e p="Animation" t="Include">
           <e p="ButtonInputs.cs" t="Include" />
         </e>
+        <e p="GameAction.cs" t="Include" />
+        <e p="GameActionHandler.cs" t="Include" />
         <e p="Scenes" t="Include">
           <e p="Coroutineclass.cs" t="Include" />
           <e p="FristClass.cs" t="Include" />
@@ -63,6 +65,7 @@
           <e p="vanaibles.cs" t="Include" />
           <e p="weaponswitch.cs" t="Include" />
         </e>
+        <e p="StatesBehaviour.cs" t="Include" />
       </e>
       <e p="obj" t="ExcludeRecursive" />
       <e p="Packages" t="ExcludeRecursive" />

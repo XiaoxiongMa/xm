@@ -64,6 +64,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Animation\ButtonInputs.cs" />
+    <Compile Include="Assets\GameAction.cs" />
+    <Compile Include="Assets\GameActionHandler.cs" />
     <Compile Include="Assets\Scenes\Coroutineclass.cs" />
     <Compile Include="Assets\Scenes\FristClass.cs" />
     <Compile Include="Assets\scripts\AI\AgentHandler.cs" />
@@ -106,6 +108,7 @@
     <Compile Include="Assets\scripts\UITextController.cs" />
     <Compile Include="Assets\scripts\vanaibles.cs" />
     <Compile Include="Assets\scripts\weaponswitch.cs" />
+    <Compile Include="Assets\StatesBehaviour.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/10846287/Documents/2019 fall dgm 1610/xm/project 1/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
