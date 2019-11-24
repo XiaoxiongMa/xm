@@ -9,13 +9,10 @@ public class StatesBehaviour : StateMachineBehaviour
     
     
     
-//    override public void OnStateEnter(Animator animator, AnimatorStateInfo stateInfo, int layerIndex);
-//    {
-//        startEnterEvent.invoke();
-//    }
-   
-    
-
+    override public void OnStateEnter(Animator animator, AnimatorStateInfo stateInfo, int layerIndex);
+    {
+        startEnterEvent.invoke();
+    }
 
 }
 
