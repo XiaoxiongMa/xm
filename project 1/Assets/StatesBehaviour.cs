@@ -3,15 +3,14 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 
-public class StatesBehaviour : StateMachineBehaviour
+public abstract class StatesBehaviour : StateMachineBehaviour
 {
-    public UnityEvent startEnterEvent;
-    
-    
-    
-    override public void OnStateEnter(Animator animator, AnimatorStateInfo stateInfo, int layerIndex);
+    public static UnityEvent startEnterEvent;
+
+
+    abstract override public void OnStateEnter(Animator animator, AnimatorStateInfo stateInfo, int layerIndex);
     {
-        startEnterEvent.invoke();
+        startEnterEvent.Invoke();
     }
 
 }
