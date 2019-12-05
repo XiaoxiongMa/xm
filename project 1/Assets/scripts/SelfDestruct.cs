@@ -9,7 +9,6 @@ public class SelfDestruct : MonoBehaviour
     void Start()
     {
         Destroy(gameObject,delay);
-
     }
 
     public void DestroyOnImpact()

@@ -5,12 +5,8 @@ using UnityEngine;
 public class FireWeapon : MonoBehaviour
 {
     public ApplyForce ammo;
-    
-    void Update()
+    public void Fire()
     {
-        if (Input.GetButtonDown("Firel")) 
-        {
-            Instantiate(original:ammo,transform.position,Quaternion.identity);
-        }
+        Instantiate(original:ammo,transform.position,Quaternion.identity);
     }
 }
