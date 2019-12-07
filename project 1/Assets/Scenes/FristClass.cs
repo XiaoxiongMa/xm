@@ -8,7 +8,7 @@ using System.Collections.Generic;
 //    // Start is called before the first frame update
 //    void Start()
 //    {
-//        
+//        Debug.Log(message:"GO!!")
 //    }
 //
 //    // Update is called once per frame
